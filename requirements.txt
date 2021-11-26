@@ -10,7 +10,7 @@ ffmpeg
 pyrogram
 feedparser
 requests
-youtube-dl
+yt-dlp
 git+git://github.com/Satyamurthi/youtube-dl.git
 git+git://github.com/mongodb/motor
 dnspython
