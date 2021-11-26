@@ -32,7 +32,7 @@ async def send_msg(user_id, message):
         
 
 @Clinton.on_message(filters.private & filters.command('broadcast') & filters.reply)
-async def broadcast_(c, m):
+async def broadcast_handler(c, m):
     if m.from_user.id != Config.OWNER_ID:
         return
     all_users = await clinton.get_all_users()
