@@ -30,7 +30,7 @@ Made with Python3
 ```
 **My Features**:
 
-🎬 All Supported Video Formats of <a href="https://rg3.github.io/youtube-dl/supportedsites.html"><img src="https://badgen.net/badge/Name/Link"></a>
+🎬 Supported All Yt-dlp Link 🔗
 
 📝 Upload as file from any HTTP link
 
