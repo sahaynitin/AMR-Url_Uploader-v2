@@ -19,13 +19,13 @@ else:
 
 from PIL import Image
 from pyrogram import filters
-from scripts import Scripted
+from translation import Translation
 from database.database import *
 from pyrogram import Client as Clinton
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
-@Clinton.on_message(filters.photo)
+@Client.on_message(filters.photo)
 async def save_photo(bot, update):
   
     if update.media_group_id is not None:
