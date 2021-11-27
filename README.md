@@ -9,13 +9,13 @@
   </a>
   
   <p align="center">
-    A simple url uploader bot with permenent thumbnail support .
+    A simple & Fastest Url uploader bot with permanent thumbnail support .
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/satyushree/AMR-Url_Uploader/issues">Report a Bug</a>
+    <a href="https://github.com/sahaynitin/AMR-Url_Uploader/issues">Report a Bug</a>
     |
-    <a href="https://github.com/satyushree/AMR-Url_Uploader/issues">Request Feature</a>
+    <a href="https://github.com/sahaynitin/AMR-Url_Uploader/issues">Request Feature</a>
   </p>
 </p>
 
@@ -41,7 +41,7 @@ Made with Python3
 Either you could locally host or deploy on [Heroku] By Clicking `Deploy on Heroku` Given below
 <br>
 
-#### ♢ Click on This Drop-down and get more details
+## ♢ Click on This Drop-down and get more details
 
 <br>
 <details>
@@ -64,7 +64,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
   <summary><b>Host it on VPS Locally :</b></summary>
 
 ```py
-git clone https://github.com/Satyamurthi/AMR-Url_Uploader
+git clone https://github.com/Satyushree/AMR-Url_Uploader
 cd AMR-Url_Uploader
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
@@ -140,11 +140,11 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 - [Aʟʟ Mᴏᴠɪᴇ Rᴏᴄᴋᴇʀs](https://telegram.me/All_Movie_Rockers)
 
-## Accounts
+## Channel & Accounts
 
 * [YouTube](https://youtube.com/channel/--)
-* [GitHub](https://github.com/Satyamurthi)
-* [Telegram](https://telegram.me/shreevish)
+* [GitHub](https://github.com/Sahaynitin)
+* [Telegram](https://telegram.me/Tellybots_4u)
 
 ## Credits
 
