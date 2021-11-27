@@ -344,6 +344,10 @@ async def youtube_dl_call_back(bot, update):
             try:
                 shutil.rmtree(tmp_directory_for_each_user)   
             except:
+                pass 
+            try:
+                os.remove(download_directory)
+            except:
                 pass
             try:
                 os.remove(thumb_image_path)
@@ -355,3 +359,5 @@ async def youtube_dl_call_back(bot, update):
                 message_id=update.message.message_id,
                 disable_web_page_preview=True
             )
+
+                
