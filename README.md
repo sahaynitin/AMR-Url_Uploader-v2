@@ -138,7 +138,7 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
 
 
-- [Aʟʟ Mᴏᴠɪᴇ Rᴏᴄᴋᴇʀs](https://telegram.me/All_Movie_Rockers)
+- [Tellybots_4u](https://telegram.me/Tellybots_4u)
 
 ## Channel & Accounts
 
