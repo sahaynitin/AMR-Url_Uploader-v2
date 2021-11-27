@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">TellyUrl_Uploader_Bot</h1>
+<h1 align="center">Url_Uploader_Bot</h1>
 <p align="center">
   <a href="https://github.com/sahaynitin/AMR-Url_Uploader-v2">
     <img src="https://telegra.ph/file/f813061df0688c94b7e58.jpg" alt="Cover Image" width="550">
