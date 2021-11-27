@@ -21,7 +21,7 @@ from PIL import Image
 from pyrogram import filters
 from translation import Translation
 from database.database import *
-from pyrogram import Client as Clinton
+from pyrogram import Client
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
