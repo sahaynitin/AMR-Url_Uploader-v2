@@ -65,7 +65,7 @@ async def echo(bot, update):
               await bot.edit_message_text(text=Translation.BANNED_USER_TEXT, message_id=fmsg.message_id)
               return
         except UserNotParticipant:
-            await bot.edit_message_text(chat_id=update.chat.id, text=Translation.FORCE_SUBSCRIBE_TEXT, message_id=fmsg.message_id, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="😎 Join Channel 😎", url=f"https://telegram.me/{Config.UPDATE_CHANNEL}")]]))
+            await bot.edit_message_text(chat_id=update.chat.id, text=Translation.FORCE_SUBSCRIBE_TEXT, message_id=fmsg.message_id, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Join My Update Channel", url=f"https://telegram.me/tellybots_4u")]]))
             return
         except Exception:
             await bot.edit_message_text(chat_id=update.chat.id, text=Translation.SOMETHING_WRONG, message_id=fmsg.message_id)
