@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Url_Uploader_Bot</h1>
+<h1 align="center">Url-Uploader-Bot</h1>
 <p align="center">
   <a href="https://github.com/sahaynitin/AMR-Url_Uploader-v2">
     <img src="https://telegra.ph/file/f813061df0688c94b7e58.jpg" alt="Cover Image" width="550">
@@ -30,9 +30,9 @@ Made with Python3
 ```
 **My Features**:
 
-👉 All Supported Video Formats of <a href="https://rg3.github.io/youtube-dl/supportedsites.html"><img src="https://badgen.net/badge/Name/Link"></a>
+🎬 All Supported Video Formats of <a href="https://rg3.github.io/youtube-dl/supportedsites.html"><img src="https://badgen.net/badge/Name/Link"></a>
 
-👉 Upload as file from any HTTP link
+📝 Upload as file from any HTTP link
 
 ## Deploy 
 
@@ -51,7 +51,7 @@ Either you could locally host or deploy on [Heroku] By Clicking `Deploy on Herok
 1. Fork This Repo
 2. Click on Deploy Easily
 
-<h4> So Follow Above Steps 👆 and then also deply other wise not work</h4>
+<h4> So Follow Above Steps 🦚 and then use deploy other wise it will not work</h4>
 
 Press the below button to Fast deploy on Heroku
 
