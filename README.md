@@ -2,10 +2,10 @@
 
 
 
-<h1 align="center">AMR-Url_Uploader</h1>
+<h1 align="center">TellyUrl_Uploader_Bot</h1>
 <p align="center">
-  <a href="https://github.com/Avipatilpro/FileStreamBot">
-    <img src="https://socialify.git.ci/satyushree/AMR-Url_Uploader/image?description=1&font=Bitter&forks=1&issues=1&logo=https%3A%2F%2Ftelegra.ph%2Ffile%2F8eddfc57dde92ec6e288e.jpg&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="550">
+  <a href="https://github.com/sahaynitin/AMR-Url_Uploader-v2">
+    <img src="https://telegra.ph/file/f813061df0688c94b7e58.jpg" alt="Cover Image" width="550">
   </a>
   
   <p align="center">
